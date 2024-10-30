@@ -1,0 +1,19 @@
+/* Admin CSS */
+#ssbp-block-patterns-directory-wrap h1{margin:15px 15px 0;}
+#ssbp-block-patterns-directory-wrap .filter-links{display:inline-block;position:relative;margin:12px 15px 0;padding:0 10px;width:calc(100% - 50px);-webkit-box-shadow:0 1px 1px rgb(0 0 0 / 4%);box-shadow:0 1px 1px rgb(0 0 0 / 4%);border:1px solid #c3c4c7;background:#fff;color:#50575e;font-size:13px;}
+.patterns-list-main,.patterns-list-main *{-webkit-box-sizing:border-box;box-sizing:border-box;}
+.patterns-list-main{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:20px 0 0;width:100%;}
+.patterns-list-main .block-pattern{width:calc(33.33% - 30px);background:#fff;border:1px solid #c3c4c7;padding:18px;margin:15px;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;}
+.patterns-list-main .block-pattern h5{font-size:18px;margin:0 0 20px;line-height:normal;width:100%;}
+.patterns-list-main .block-pattern .pattern-buttons{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end;width:100%;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;}
+#ssbp-block-patterns-directory-wrap .filter-links a{text-decoration:none;}
+#ssbp-block-patterns-directory-wrap .auther-specific-patterns{padding:20px;border-top:1px solid #f0f0f1;background:#f6f7f7;overflow:hidden;margin:25px 15px 0;border:1px solid #c3c4c7;}
+.patterns-list-outer{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin:20px 0;}
+.patterns-list-outer > p{display:block;width:100%;text-align:center;font-size:18px;}
+.patterns-list-outer .spinner{display:none;visibility:visible;}
+.patterns-list-main .pattern-buttons .button-primary{position:relative;}
+#ssbp-block-patterns-directory-wrap .load-more-patterns{text-align:center;margin-top:30px;}
+#ssbp-block-patterns-directory-wrap .load-more-patterns button{font-size:20px;padding:0 28px;position:relative;}
+#ssbp-block-patterns-directory-wrap .load-more-patterns button.updating-message{padding:0 28px 0 50px;}
+#ssbp-block-patterns-directory-wrap .load-more-patterns button::before{position:absolute;top:9px;left:24px;}
+#ssbp-block-patterns-directory-wrap .updated.notice{margin:20px 15px 10px;}

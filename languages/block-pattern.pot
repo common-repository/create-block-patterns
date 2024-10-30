@@ -1,0 +1,293 @@
+# Copyright (C) 2022 Sadik Multani
+# This file is distributed under the GPL v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Create Block Patterns 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-11-28 10:19+0530\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language-Team: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/browse-patterns.php:16 inc/patterns-settings.php:59
+msgid "Browse Patterns"
+msgstr ""
+
+#: inc/browse-patterns.php:18 inc/patterns-settings.php:83
+msgid "Latest"
+msgstr ""
+
+#: inc/browse-patterns.php:19 inc/patterns-settings.php:84
+msgid "By Author"
+msgstr ""
+
+#: inc/browse-patterns.php:23
+#, php-format
+msgid ""
+"Your block pattern has been inserted successfully. <a href=\"%1$s\">Click "
+"here</a> to review all your block patterns."
+msgstr ""
+
+#: inc/custom-post-type.php:17
+msgctxt "Post Type General Name"
+msgid "Block Patterns"
+msgstr ""
+
+#: inc/custom-post-type.php:18
+msgctxt "Post Type Singular Name"
+msgid "Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:19
+msgctxt "Admin Menu text"
+msgid "Block Patterns"
+msgstr ""
+
+#: inc/custom-post-type.php:20
+msgctxt "Add New on Toolbar"
+msgid "Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:21
+msgid "Block Pattern Archives"
+msgstr ""
+
+#: inc/custom-post-type.php:22
+msgid "Block Pattern Attributes"
+msgstr ""
+
+#: inc/custom-post-type.php:23
+msgid "Parent Block Pattern:"
+msgstr ""
+
+#: inc/custom-post-type.php:24
+msgid "All Block Patterns"
+msgstr ""
+
+#: inc/custom-post-type.php:25
+msgid "Add New Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:26
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-post-type.php:27
+msgid "New Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:28
+msgid "Edit Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:29
+msgid "Update Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:30
+msgid "View Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:31
+msgid "View Block Patterns"
+msgstr ""
+
+#: inc/custom-post-type.php:32
+msgid "Search Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:33
+msgid "Not found"
+msgstr ""
+
+#: inc/custom-post-type.php:34
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/custom-post-type.php:35
+msgid "Featured Image"
+msgstr ""
+
+#: inc/custom-post-type.php:36
+msgid "Set featured image"
+msgstr ""
+
+#: inc/custom-post-type.php:37
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/custom-post-type.php:38
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/custom-post-type.php:39
+msgid "Insert into Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:40
+msgid "Uploaded to this Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:41
+msgid "Block Patterns list"
+msgstr ""
+
+#: inc/custom-post-type.php:42
+msgid "Block Patterns list navigation"
+msgstr ""
+
+#: inc/custom-post-type.php:43
+msgid "Filter Block Patterns list"
+msgstr ""
+
+#: inc/custom-post-type.php:46
+msgid "Block Pattern"
+msgstr ""
+
+#: inc/custom-post-type.php:47
+msgid "The Block Patterns"
+msgstr ""
+
+#: inc/custom-post-type.php:82
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-post-type.php:83
+msgctxt "taxonomy singular name"
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-post-type.php:84
+msgid "Search Category"
+msgstr ""
+
+#: inc/custom-post-type.php:85
+msgid "All Categories"
+msgstr ""
+
+#: inc/custom-post-type.php:86
+msgid "Parent Category"
+msgstr ""
+
+#: inc/custom-post-type.php:87
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/custom-post-type.php:88
+msgid "Edit Category"
+msgstr ""
+
+#: inc/custom-post-type.php:89
+msgid "Update Category"
+msgstr ""
+
+#: inc/custom-post-type.php:90
+msgid "Add New Category"
+msgstr ""
+
+#: inc/custom-post-type.php:91
+msgid "New Category Name"
+msgstr ""
+
+#: inc/custom-post-type.php:92
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-post-type.php:109
+msgctxt "taxonomy general name"
+msgid "Keywords"
+msgstr ""
+
+#: inc/custom-post-type.php:110
+msgctxt "taxonomy singular name"
+msgid "Keywords"
+msgstr ""
+
+#: inc/custom-post-type.php:111
+msgid "Search Keyword"
+msgstr ""
+
+#: inc/custom-post-type.php:112
+msgid "All Keywords"
+msgstr ""
+
+#: inc/custom-post-type.php:113
+msgid "Parent Keyword"
+msgstr ""
+
+#: inc/custom-post-type.php:114
+msgid "Parent Keyword:"
+msgstr ""
+
+#: inc/custom-post-type.php:115
+msgid "Edit Keyword"
+msgstr ""
+
+#: inc/custom-post-type.php:116
+msgid "Update Keyword"
+msgstr ""
+
+#: inc/custom-post-type.php:117
+msgid "Add New Keyword"
+msgstr ""
+
+#: inc/custom-post-type.php:118
+msgid "New Keyword Name"
+msgstr ""
+
+#: inc/custom-post-type.php:119
+msgid "Keywords"
+msgstr ""
+
+#: inc/filter-tabs/author-patterns.php:5
+msgid ""
+"If you want to search for block patterns from a specific author, you can "
+"browse them here."
+msgstr ""
+
+#: inc/filter-tabs/author-patterns.php:7
+msgid "Enter author WordPress.org username:"
+msgstr ""
+
+#: inc/filter-tabs/author-patterns.php:9
+msgid "Get Patterns"
+msgstr ""
+
+#: inc/filter-tabs/author-patterns.php:14
+msgid "Enter any author's user name and browser author specific block patterns."
+msgstr ""
+
+#: inc/filter-tabs/latest-patterns.php:18 inc/patterns-settings.php:14
+msgid "Insert Pattern"
+msgstr ""
+
+#: inc/filter-tabs/latest-patterns.php:19 inc/patterns-settings.php:15
+msgid "Preview"
+msgstr ""
+
+#: inc/filter-tabs/latest-patterns.php:29
+msgid "Load More"
+msgstr ""
+
+#: inc/patterns-settings.php:16
+msgid "Please enter any username to search block patterns."
+msgstr ""
+
+#: inc/patterns-settings.php:17
+msgid "No block patterns were found by this author."
+msgstr ""
